@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'APP_3',
+    baseUrl: '/APP_3',
   },
 }
